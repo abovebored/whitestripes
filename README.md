@@ -6,9 +6,11 @@ Every official show including setlist.
 
 Data scraped from the now defunct [whitestripes.com]
 
-# Planned improvements (help welcome)
+# Planned improvements
 
-- [x] (In progress) Normalise track names using offial liner notes e.g., `Dead Leaves and the Dirty Ground` vs `Dead Leaves & the Dirty Ground`
+- [x] Normalise track names using offial liner notes e.g., `Dead Leaves and the Dirty Ground` vs `Dead Leaves & the Dirty Ground` _(In progress)_
 - [ ] Location data for show venue
 - [ ] Lyrics
 - [ ] Show length
+
+Additions and corrections welcome.
