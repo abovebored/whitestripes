@@ -704,7 +704,7 @@ id,"show","title",order
 703,"44","Fell in Love with a Girl",13
 704,"44","Expecting",14
 705,"44","Screwdriver",15
-706,"44","Astro/Farmer John (Don \"Sugarcane\" Harris)",16
+706,"44","Astro/Farmer John (Don ""Sugarcane"" Harris)",16
 707,"44","Look Me Over Closely (Terry Gilkyson)",17
 708,"45","Let’s Shake Hands",0
 709,"45","When I Hear My Name",1
@@ -858,7 +858,7 @@ id,"show","title",order
 857,"51","Apple Blossom",14
 858,"51","We Are Going to Be Friends ",15
 859,"51","Jimmy the Exploder",16
-860,"51","Astro/Farmer John (Don \"Sugarcane\" Harris)",17
+860,"51","Astro/Farmer John (Don ""Sugarcane"" Harris)",17
 861,"51","Lord, Send Me an Angel (Blind Willie McTell)",18
 862,"51","Broken Bricks",19
 863,"51","St. James Infirmary (Trad.)",20
@@ -948,7 +948,7 @@ id,"show","title",order
 947,"55","Aluminum",11
 948,"55","Baby Blue (Gene Vincent)",12
 949,"55","Cool Drink of Water Blues (Tommy Johnson)",13
-950,"55","Astro/Farmer John (Don \"Sugarcane\" Harris)",14
+950,"55","Astro/Farmer John (Don ""Sugarcane"" Harris)",14
 951,"55","Your Southern Can is Mine (Blind Willie McTell)",15
 952,"55","Broken Bricks",16
 953,"55","Screwdriver",17
@@ -2441,7 +2441,7 @@ id,"show","title",order
 2440,"141","Apple Blossom",8
 2441,"141","Hello Operator",9
 2442,"141","We’re Going To Be Friends",10
-2443,"141","\"Everywhere I Go\"",11
+2443,"141","""Everywhere I Go""",11
 2444,"141","Seven Nation Army",12
 2445,"141","I Want To Be The Boy",13
 2446,"141","Ball and Biscuit",14
@@ -2716,7 +2716,7 @@ id,"show","title",order
 2715,"153","Screwdriver",20
 2716,"153","This Protector",21
 2717,"154","(Jack opens set with -",0
-2718,"154","\"I Am The God Of Hellfyre. and I bring you.\")",1
+2718,"154","""I Am The God Of Hellfyre. and I bring you."")",1
 2719,"154","Dead Leaves and the Dirty Ground",2
 2720,"154","Black Math",3
 2721,"154","I Think I Smell A Rat",4
@@ -2733,8 +2733,8 @@ id,"show","title",order
 2732,"154","Cannon",15
 2733,"154","Ball and Biscuit",16
 2734,"154","We Are Going To Be Friends",17
-2735,"154","(\"Did anybody make any mistakes today?\")",18
-2736,"154","(\"Well what were they?\")",19
+2735,"154","(""Did anybody make any mistakes today?"")",18
+2736,"154","(""Well what were they?"")",19
 2737,"154","Seven Nation Army ",20
 2738,"154","Death Letter ",21
 2739,"154","Motherless Children",22
@@ -2779,7 +2779,7 @@ id,"show","title",order
 2778,"155","Apple Blossom",24
 2779,"155","Ball and Biscuit",25
 2780,"155","We Are Going To Be Friends",26
-2781,"155","(\"Are we friends yet Norway?\")",27
+2781,"155","(""Are we friends yet Norway?"")",27
 2782,"155","ENCORE",29
 2783,"155","Astro",30
 2784,"155","Jack The Ripper",31
@@ -3589,7 +3589,7 @@ id,"show","title",order
 3588,"185","I Think I Smell a Rat",12
 3589,"185","St. James Infirmary",13
 3590,"185","We’re Going to be Friends",14
-3591,"185","(\"Can we talk about MTV?\"",15
+3591,"185","(""Can we talk about MTV?""",15
 3592,"185","Jack gives Johnny Cash video of the year)",16
 3593,"185","Death Letter",17
 3594,"185","Grinnin’ in Your Face",18
@@ -3599,7 +3599,7 @@ id,"show","title",order
 3598,"185","You’re Pretty Good Looking",22
 3599,"185","Hello Operator",23
 3600,"185","Lord, Send Me an Angel",24
-3601,"185","(\"God I hate crowd-surfing\")",25
+3601,"185","(""God I hate crowd-surfing"")",25
 3602,"185","I Want to Be the Boy to Warm Your Mother’s Heart",26
 3603,"185","Astro",27
 3604,"185","Jack the Ripper",28
@@ -3664,7 +3664,7 @@ id,"show","title",order
 3663,"188","I Think I Smell a Rat",2
 3664,"188","Hotel Yorba",3
 3665,"188","I’m Finding it Harder to Be a Gentleman",4
-3666,"188","I Fought Piranhas (\"Sittin’ on front porch, thinkin’ ’bout Jesus Christ\")",5
+3666,"188","I Fought Piranhas (""Sittin’ on front porch, thinkin’ ’bout Jesus Christ"")",5
 3667,"188","Let’s Build a Home",6
 3668,"188","Goin’ Back to Memphis (Henry and June)",7
 3669,"188","In the Cold, Cold Night",8
@@ -3698,8 +3698,8 @@ id,"show","title",order
 3697,"189","In the Cold, Cold Night",9
 3698,"189","Wasting My Time",10
 3699,"189","I Just Don’t Know What to Do with Myself (Bacharach)",11
-3700,"189","Offend in Every Way (\"I can’t play D minor\")",12
-3701,"189","The Union Forever (with extra \"Citizen Kane\" dialogue)",13
+3700,"189","Offend in Every Way (""I can’t play D minor"")",12
+3701,"189","The Union Forever (with extra ""Citizen Kane"" dialogue)",13
 3702,"189","Seven Nation Army",14
 3703,"189","You’ve Got Her in Your Pocket",15
 3704,"189","I Think I Smell a Rat",16
@@ -3732,7 +3732,7 @@ id,"show","title",order
 3731,"190","The Union Forever",12
 3732,"190","Shine on Harvest Moon",13
 3733,"190","I Want to Be the Boy to Warm Your Mother’s Heart",14
-3734,"190","Death Letter (\"Keep your lamplight trimmed and burning\")",15
+3734,"190","Death Letter (""Keep your lamplight trimmed and burning"")",15
 3735,"190","Seven Nation Army",16
 3736,"190","We are Going to Be Friends",17
 3737,"190","Truth Doesn’t Make a Noise",18
@@ -3769,7 +3769,7 @@ id,"show","title",order
 3768,"191","Look Me Over Closely",22
 3769,"191","Lafayette Blues",23
 3770,"191","I Want to Be the Boy to Warm Your Mother’s Heart",24
-3771,"191","Seven Nation Army (\"Wichita linemanï¿½?\")",25
+3771,"191","Seven Nation Army (""Wichita linemanï¿½?"")",25
 3772,"191","Little Room",26
 3773,"191","Let’s Build a Home",27
 3774,"191","Goin’ Back to Memphis (Henry and June)",28
@@ -3805,7 +3805,7 @@ id,"show","title",order
 3804,"193","When I Hear My Name",3
 3805,"193","Jolene (Parton)",4
 3806,"193","I’m Finding it Harder to Be a Gentleman",5
-3807,"193","(\"San D, where you at?\")",6
+3807,"193","(""San D, where you at?"")",6
 3808,"193","In the Cold, Cold Night",7
 3809,"193","The Same Boy You’ve Always Known",8
 3810,"193","The Hardest Button to Button",9
@@ -3845,7 +3845,7 @@ id,"show","title",order
 3844,"194","Apple Blossom",14
 3845,"194","Sugar Never Tasted So Good",15
 3846,"194","I Think I Smell a Rat",16
-3847,"194","Seven Nation Army (\"Alright Arizona, where you at?\")",17
+3847,"194","Seven Nation Army (""Alright Arizona, where you at?"")",17
 3848,"194","ENCORE",19
 3849,"194","We are Going to Be Friends (without Meg)",20
 3850,"194","Fell in Love with a Girl (from fast to mellow)",21
@@ -6443,7 +6443,7 @@ id,"show","title",order
 6442,"296","Hardest Button to Button",14
 6443,"296","Instinct Blues",15
 6444,"296","In the Cold, Cold Night",16
-6445,"296","\"Cheese Danish Dream\"",17
+6445,"296","""Cheese Danish Dream""",17
 6446,"296","Same Boy You’ve Always Known",18
 6447,"296","Let’s Shake Hands",19
 6448,"296","Screwdriver",20
@@ -7920,12 +7920,12 @@ id,"show","title",order
 7919,"349","A Martyr For My Love For You",10
 7920,"349","I’m Slowly Turning Into You",11
 7921,"349","Death Letter (Son House)",12
-7922,"349","Black MathÂ ",13
+7922,"349","Black MathÂ ",13
 7923,"349","ENCORE",14
 7924,"349","I Just Dont Know What To Do With Myself (Bacharach/David)",15
 7925,"349","Astro",16
 7926,"349","Blue Orchid",17
-7927,"349","My DoorbellÂ ",18
+7927,"349","My DoorbellÂ ",18
 7928,"349","Seven Nation Army",19
 7929,"350","Dead Leaves and the Dirty Ground",0
 7930,"350","Black Mathâ¨",1
@@ -8770,4 +8770,4 @@ id,"show","title",order
 8769,"388","We’re Going to Be Friends",18
 8770,"388","I Just Don’t Know What to Do With Myself(Bacharach/David)",19
 8771,"388","Ball and Biscuit/Cool Drink of Water (Tommy Johnson)",20
-8772,"388","Boll Weevil (Trad.)",2
+8772,"388","Boll Weevil (Trad.)",22
