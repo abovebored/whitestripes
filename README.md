@@ -2,9 +2,11 @@
 
 Every official show including setlist. 
 
-[`/data/tracks.csv`](/data/tracks.csv) date format is in DD/MM/YYYY. `show` corresponds to the show `id` in [`/data/shows.csv`](/data/shows.csv)
+[`/data/tracks.csv`](/data/tracks.csv) date format is in `DD/MM/YYYY`.
 
-Data scraped from the now defunct [whitestripes.com]
+`show` corresponds to the show `id` in [`/data/shows.csv`](/data/shows.csv)
+
+Data scraped from the now defunct [whitestripes.com](http://whitestripes.com)
 
 # Planned improvements
 
